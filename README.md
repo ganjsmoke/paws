@@ -20,7 +20,7 @@ Setup
 
 1. Clone this repository and navigate to the project folder:
     ```bash
-    git clone https://github.com/ganjmsoke/paws.git
+    git clone https://github.com/ganjsmoke/paws.git
     cd auto-clear-task-paws
     ```
 
